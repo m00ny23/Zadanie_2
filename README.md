@@ -13,7 +13,7 @@ Program napisany w ***języku python***
 
 W celu pobrania źródeł programu w terminalu wykonaj polecenie:
 
-''' shell
+''' python
 git clone
 '''
 
